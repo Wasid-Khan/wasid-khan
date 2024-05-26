@@ -54,8 +54,8 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"></td>
     <td><img src="https://img.icons8.com/ios/50/000000/selenium-test-automation.png" alt="Selenium"></td>
-    <td><img src="https://img.icons8.com/ios/50/000000/numpy.png" alt="NumPy"></td>
-    <td><img src="https://img.icons8.com/ios/50/000000/pandas.png" alt="Pandas"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"></td>
     <td><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn"></td>
     <td><img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"></td>
     <td><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"></td>
