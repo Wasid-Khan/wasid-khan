@@ -1,5 +1,5 @@
-# [Your Name]
-![Your Avatar](https://github.com/yourusername.png)  <!-- Replace with your GitHub avatar URL -->
+WASID KHAN
+![Your Avatar](https://github.com/account)  <!-- Replace with your GitHub avatar URL -->
 
 **Data Scientist / Web3 dev / [Your profession]**
 
