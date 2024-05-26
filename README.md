@@ -12,153 +12,32 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 ## Languages and Tools
 # Programming Languages
 
-<table>
-  <tr>
-    <th>C</th>
-    <th>C++</th>
-    <th>Java</th>
-    <th>C#</th>
-    <th>JavaScript</th>
-    <th>Python</th>
-    <th>Solidity</th>
-    <th>SQL</th>
-    <th>PHP</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"></td>
-    <td><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"></td>
-  </tr>
-</table>
+## Programming Languages
 
-# Frameworks and Main Libraries
+| C                                        | C++                                          | Java                                           | C#                                          | JavaScript                                    | Python                                       | Solidity                                     | SQL                                          | PHP                                          |
+|------------------------------------------|----------------------------------------------|------------------------------------------------|---------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Solidity](https://img.icons8.com/ios-filled/50/000000/solidity.png) | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) | ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) |
 
-<table>
-  <tr>
-    <th>PyTorch</th>
-    <th>Selenium</th>
-    <th>NumPy</th>
-    <th>Pandas</th>
-    <th>Scikit-learn</th>
-    <th>Matplotlib</th>
-    <th>OpenCV</th>
-  </tr>
-  <tr>
-    [<td><img src="[https://img.icons8.com/color/48/000000/pytorch.png](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)" alt="PyTorch"></td>]
-    <td><img src="https://img.icons8.com/ios/50/000000/selenium-test-automation.png" alt="Selenium"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"></td>
-  </tr>
-</table>
+## Frameworks and Main Libraries
 
-<table>
-  <tr>
-    <th>Spring Framework</th>
-    <th>Hibernate</th>
-    <th>JUnit</th>
-    <th>Maven / Gradle</th>
-    <th>Thymeleaf / JSP</th>
-    <th>Apache Tomcat</th>
-    <th>Jackson / Gson</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Framework"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/thymeleaf.png" alt="Thymeleaf"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/apache-tomcat.png" alt="Apache Tomcat"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/json.png" alt="Jackson / Gson"></td>
-  </tr>
-</table>
+| PyTorch                                        | Selenium                                      | NumPy                                         | Pandas                                       | Scikit-learn                                 | Matplotlib                                   | OpenCV                                       |
+|------------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![PyTorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | ![Selenium](https://img.icons8.com/ios/50/000000/selenium-test-automation.png) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) |
 
-<table>
-  <tr>
-    <th>Log4j / SLF4J</th>
-    <th>ASP.NET Core</th>
-    <th>Entity Framework Core</th>
-    <th>xUnit / NUnit / MSTest</th>
-    <th>NuGet</th>
-    <th>Blazor / Razor</th>
-    <th>SignalR</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/log.png" alt="Log4j / SLF4J"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="Entity Framework Core"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/test.png" alt="xUnit / NUnit / MSTest"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/package-manager.png" alt="NuGet"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/razor-page.png" alt="Blazor / Razor"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/real-time.png" alt="SignalR"></td>
-  </tr>
-</table>
+| Spring Framework                              | Hibernate                                     | JUnit                                         | Maven / Gradle                              | Thymeleaf / JSP                              | Apache Tomcat                                | Jackson / Gson                               |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png) | ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png) | ![JUnit](https://img.icons8.com/color/48/000000/junit.png) | ![Maven](https://img.icons8.com/color/48/000000/maven.png) | ![Thymeleaf](https://img.icons8.com/color/48/000000/thymeleaf.png) | ![Apache Tomcat](https://img.icons8.com/color/48/000000/apache-tomcat.png) | ![Jackson / Gson](https://img.icons8.com/color/48/000000/json.png) |
 
-<table>
-  <tr>
-    <th>Serilog / NLog</th>
-    <th>Dapper</th>
-    <th>AutoMapper</th>
-    <th>Swashbuckle</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/log.png" alt="Serilog / NLog"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/code.png" alt="Dapper"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/mirror.png" alt="AutoMapper"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Swashbuckle"></td>
-  </tr>
-</table>
+| Log4j / SLF4J                                | ASP.NET Core                                  | Entity Framework Core                         | xUnit / NUnit / MSTest                      | NuGet                                        | Blazor / Razor                               | SignalR                                      |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![Log4j / SLF4J](https://img.icons8.com/color/48/000000/log.png) | ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png) | ![Entity Framework Core](https://img.icons8.com/color/48/000000/database-restore.png) | ![xUnit / NUnit / MSTest](https://img.icons8.com/color/48/000000/test.png) | ![NuGet](https://img.icons8.com/color/48/000000/package-manager.png) | ![Blazor / Razor](https://img.icons8.com/color/48/000000/razor-page.png) | ![SignalR](https://img.icons8.com/color/48/000000/real-time.png) |
 
-# My Tools for Data Manipulation
+| Serilog / NLog                               | Dapper                                        | AutoMapper                                    | Swashbuckle                                  |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|
+| ![Serilog / NLog](https://img.icons8.com/color/48/000000/log.png) | ![Dapper](https://img.icons8.com/color/48/000000/code.png) | ![AutoMapper](https://img.icons8.com/color/48/000000/mirror.png) | ![Swashbuckle](https://img.icons8.com/color/48/000000/api-settings.png) |
 
-<table>
-  <tr>
-    <th>Conda</th>
-    <th>Jupyter</th>
-    <th>Spark</th>
-    <th>MySQL</th>
-    <th>Postgres</th>
-    <th>SQLite</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/windows/48/000000/conda.png" alt="Conda"></td>
-    <td><img src="https://img.icons8.com/windows/48/000000/jupyter-notebook.png" alt="Jupyter"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/apache-spark.png" alt="Spark"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/mysql.png" alt="MySQL"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/postgresql.png" alt="Postgres"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/sqlite.png" alt="SQLite"></td>
-  </tr>
-</table>
+## Tools for Data Manipulation
 
-# Environments, Testing, Other
-
-<table>
-  <tr>
-    <th>NodeJS</th>
-    <th>Git</th>
-    <th>Docker</th>
-    <th>Pytest</th>
-    <th>Swagger</th>
-    <th>Postman</th>
-    <th>Virtual Box</th>
-    <th>HardHat</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"></td>
-    <td><img src="https://img.icons8.com/material-outlined/48/000000/pytest.png" alt="Pytest"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/swagger.png" alt="Swagger"></td>
-    <td><img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="Virtual Box"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/construction-worker.png" alt="HardHat"></td>
-  </tr>
-</table>
+| Conda                                        | Jupyter                                       | Spark                                         | MySQL                                        | Postgres                                     | SQLite                                       |
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![Conda](https://img.icons8.com/windows/48/000000/conda.png) | ![Jupyter](https://img.icons8.com/windows/48/000000/jupyter-notebook.png) | ![Spark](https://img.icons8.com/ios-filled/50/000000/apache-spark.png) | ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) | ![Postgres](
