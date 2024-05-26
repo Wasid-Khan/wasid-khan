@@ -12,7 +12,7 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 
 LeetCode Profile: 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/Wasid_Khan/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wasidkhan66/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wasid-khan66/)
 
 ## Programming Languages
 
