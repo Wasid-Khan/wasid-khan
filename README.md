@@ -56,7 +56,7 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 
 | Metasploit Framework                                                                                   | Nikto   | BeEF   | John The Ripper   | Autopsy   | Wireshark   | Sqlmap   | Apktool   |
 |--------------------------------------------------------------------------------------------------------|---------|--------|-------------------|-----------|-------------|----------|-----------|
-| ![Metasploit Framework](https://github.com/sammorozov/sammorozov/blob/main/assets/msf.svg)           |         |        |                   |           |             |          |           |
+| <img src="https://github.com/sammorozov/sammorozov/raw/main/assets/msf.svg" width="48">               |         |        |                   |           |             |          |           |
 
 
 
