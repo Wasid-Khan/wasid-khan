@@ -9,7 +9,11 @@ I'm a passionate full stack developer with a knack for creating dynamic and resp
 
 Currently, I'm gaining experience in the field of Information Security and Cyber Security.
 
-## Languages and Tools
+
+LeetCode Profile: 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/Wasid_Khan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wasidkhan66/)
+
 ## Programming Languages
 
 | C                                        | C++                                          | Java                                           | C#                                          | JavaScript                                    | Python                                       | Solidity                                     | SQL                                          | PHP                                          |
@@ -57,8 +61,5 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 | Metasploit Framework                                                                                   | Nikto   | BeEF   | John The Ripper   | Autopsy   | Wireshark   | Sqlmap   | Apktool   |
 |--------------------------------------------------------------------------------------------------------|---------|--------|-------------------|-----------|-------------|----------|-----------|
 | <img src="https://github.com/sammorozov/sammorozov/raw/main/assets/msf.svg" width="48">               |         |        |                   |           |             |          |           |
-
-LeetCode Profile: 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/Wasid_Khan/)
 
 ![Snake](https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg)
