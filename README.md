@@ -11,16 +11,9 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 
 <p>
   <img src="https://img.icons8.com/fluent/96/000000/ms-word.png" width="30" height="30"/> **MS in Information Security @ NUST SEECS**
-  <span style="background-color: yellow; padding: 2px; animation: highlight 2s infinite;"></span>
 </p>
 
-<style>
-  @keyframes highlight {
-    0% { background-color: transparent; }
-    50% { background-color: yellow; }
-    100% { background-color: transparent; }
-  }
-</style>
+<div style="background-color: yellow; height: 2px; width: 100%;"></div>
 
 
 ## Languages and Tools
