@@ -1,39 +1,14 @@
 WASID KHAN
-![Your Avatar](https://github.com/account)  <!-- Replace with your GitHub avatar URL -->
+![Your Avatar]([https://github.com/account](https://avatars.githubusercontent.com/u/70897387?v=4))  <!-- Replace with your GitHub avatar URL -->
 
-**Data Scientist / Web3 dev / [Your profession]**
+**Full-Stack Developer/ Web3 dev / Blochcain Development**
 
-🌍 [Location] | 📧 [Your Email] | 🌐 [Your Website]
+🌍 Islamabad, Pakistan | 📧 wasidawan66@gmail.com
 
 ## About Me:
-I'm a passionate data scientist with a knack for predictive analytics, specializing in [Your Specializations]. I thrive on [Your Interests]. Additionally, I have a strong foundation in [Your Skills].
+I'm a passionate full stack developer with a knack for creating dynamic and responsive web applications, specializing in both front-end and back-end technologies, dominantly in PHP and C#.Net framework along with others. I thrive on building seamless, user-centric applications and optimizing performance. Additionally, I have a strong foundation in JavaScript, Python, C#, SQL, and cloud-based development.
 
-Currently, I'm delving into [Your Current Focus]. During my leisure time, you'll find me [Your Hobbies].
-
-## Social media: 📡
-Join me on [Your Social Media Platform], where I share insights, victories, and even the occasional setback.
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue)](https://t.me/yourtelegramhandle)  <!-- Replace with your Telegram link -->
-
-## Competitions: 🥇
-**Algorithms**: [LeetCode](https://leetcode.com/yourusername)  <!-- Replace with your LeetCode link -->
-
-### CTF's
-| CTF              | Result    | Team             | Date       |
-|------------------|-----------|------------------|------------|
-| BSidesSF CTF     | top 10%   | movie43          | 05/2024    |
-| CIT@CTF          | top 6%    | undermouses      | 04/2024    |
-| Space HeroesCTF  | top 23%   | check_yor_mom    | 04/2024    |
-| swampCTF         | top 17%   | check_your_mouse | 03/2024    |
-| wolvCTF          | top 31%   | undermouses      | 03/2024    |
-| ethernautCTF     | out of competition | solo | 03/2024 |
-| osuCTF           | top 35%   | undermouses      | 02/2024    |
-| vksCTF           | top 15%   | Solo played      | 09/2023    |
-
-## Working on: 🚀
-- [Your Project 1](https://github.com/yourusername/yourproject1)
-- [Your Project 2](https://github.com/yourusername/yourproject2)
-- [Your Project 3](https://github.com/yourusername/yourproject3)
+Currently, I'm delving into Information Security and Cyber Security field.
 
 ## Languages and Tools
 **Languages:**
@@ -68,11 +43,3 @@ Join me on [Your Social Media Platform], where I share insights, victories, and 
 - Postman
 - Virtual Box
 - HardHat
-
-## Achievements
-- ![Achievement: Galaxy Brain](path_to_achievement_image) Galaxy Brain
-- ![Achievement: Starstruck](path_to_achievement_image) Starstruck
-- ![Achievement: Pair Extraordinaire](path_to_achievement_image) Pair Extraordinaire
-- ![Achievement: YOLO](path_to_achievement_image) YOLO
-- ![Achievement: Pull Shark](path_to_achievement_image) Pull Shark
-- ![Achievement: Quickdraw](path_to_achievement_image) Quickdraw
