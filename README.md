@@ -39,31 +39,86 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 
 
 **Frameworks and main libraries:**
-- Pytorch
-- Selenium
-- Numpy
-- Pandas
-- Sklearn
-- Matplotlib
-- OpenCV
-- Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security)
-- Hibernate (ORM)
-- JUnit (Testing framework)
-- Maven / Gradle (Build automation tools)
-- Thymeleaf / JSP (View technologies)
-- Apache Tomcat (Web server)
-- Jackson / Gson (JSON parsing libraries)
-- Log4j / SLF4J (Logging frameworks)
-- ASP.NET Core (Web framework)
-- Entity Framework Core (ORM)
-- xUnit / NUnit / MSTest (Testing frameworks)
-- NuGet (Package manager)
-- Blazor / Razor (View technologies)
-- SignalR (Real-time web functionality)
-- Serilog / NLog (Logging frameworks)
-- Dapper (Micro ORM)
-- AutoMapper (Object-object mapping)
-- Swashbuckle (Swagger for API documentation)
+# Frameworks and Main Libraries
+
+<table>
+  <tr>
+    <th>PyTorch</th>
+    <th>Selenium</th>
+    <th>NumPy</th>
+    <th>Pandas</th>
+    <th>Scikit-learn</th>
+    <th>Matplotlib</th>
+    <th>OpenCV</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"></td>
+    <td><img src="https://img.icons8.com/ios/50/000000/selenium-test-automation.png" alt="Selenium"></td>
+    <td><img src="https://img.icons8.com/ios/50/000000/numpy.png" alt="NumPy"></td>
+    <td><img src="https://img.icons8.com/ios/50/000000/pandas.png" alt="Pandas"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Spring Framework</th>
+    <th>Hibernate</th>
+    <th>JUnit</th>
+    <th>Maven / Gradle</th>
+    <th>Thymeleaf / JSP</th>
+    <th>Apache Tomcat</th>
+    <th>Jackson / Gson</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Framework"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/thymeleaf.png" alt="Thymeleaf"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/apache-tomcat.png" alt="Apache Tomcat"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/json.png" alt="Jackson / Gson"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Log4j / SLF4J</th>
+    <th>ASP.NET Core</th>
+    <th>Entity Framework Core</th>
+    <th>xUnit / NUnit / MSTest</th>
+    <th>NuGet</th>
+    <th>Blazor / Razor</th>
+    <th>SignalR</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/log.png" alt="Log4j / SLF4J"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="Entity Framework Core"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/test.png" alt="xUnit / NUnit / MSTest"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/package-manager.png" alt="NuGet"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/razor-page.png" alt="Blazor / Razor"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/real-time.png" alt="SignalR"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Serilog / NLog</th>
+    <th>Dapper</th>
+    <th>AutoMapper</th>
+    <th>Swashbuckle</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/log.png" alt="Serilog / NLog"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/code.png" alt="Dapper"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/mirror.png" alt="AutoMapper"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Swashbuckle"></td>
+  </tr>
+</table>
+
 
 **My tools for Data Manipulation:**
 - Conda
