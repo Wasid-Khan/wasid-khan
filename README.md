@@ -10,6 +10,8 @@ I'm a passionate full stack developer with a knack for creating dynamic and resp
 Currently, I'm gaining experience in the field of Information Security and Cyber Security.
 
 ## Languages and Tools
+# Programming Languages
+
 <table>
   <tr>
     <th>C</th>
@@ -35,8 +37,6 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
   </tr>
 </table>
 
-
-**Frameworks and main libraries:**
 # Frameworks and Main Libraries
 
 <table>
