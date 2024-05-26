@@ -12,30 +12,30 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 ## Languages and Tools
 # Programming Languages
 
-## C/C++
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-
-## Java
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
-## C#
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-
-## JavaScript
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-
-## Python
-![Python](https://img.icons8.com/color/48/000000/python.png)
-
-## Solidity
-![Solidity](https://img.icons8.com/ios-filled/50/000000/solidity.png)
-
-## SQL
-![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
-
-## PHP
-![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+<table>
+  <tr>
+    <th>C</th>
+    <th>C++</th>
+    <th>Java</th>
+    <th>C#</th>
+    <th>JavaScript</th>
+    <th>Python</th>
+    <th>Solidity</th>
+    <th>SQL</th>
+    <th>PHP</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"></td>
+    <td><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"></td>
+  </tr>
+</table>
 
 
 **Frameworks and main libraries:**
