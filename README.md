@@ -10,8 +10,6 @@ I'm a passionate full stack developer with a knack for creating dynamic and resp
 Currently, I'm gaining experience in the field of Information Security and Cyber Security.
 
 ## Languages and Tools
-# Programming Languages
-
 ## Programming Languages
 
 | C                                        | C++                                          | Java                                           | C#                                          | JavaScript                                    | Python                                       | Solidity                                     | SQL                                          | PHP                                          |
@@ -40,4 +38,4 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 
 | Conda                                        | Jupyter                                       | Spark                                         | MySQL                                        | Postgres                                     | SQLite                                       |
 |----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| ![Conda](https://img.icons8.com/windows/48/000000/conda.png) | ![Jupyter](https://img.icons8.com/windows/48/000000/jupyter-notebook.png) | ![Spark](https://img.icons8.com/ios-filled/50/000000/apache-spark.png) | ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) | ![Postgres](
+| ![Conda](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg) | ![Jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg) | ![Spark](https://github.com/devicons/devicon/blob/master/icons
