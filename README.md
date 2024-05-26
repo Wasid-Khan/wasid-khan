@@ -9,13 +9,6 @@ I'm a passionate full stack developer with a knack for creating dynamic and resp
 
 Currently, I'm gaining experience in the field of Information Security and Cyber Security.
 
-<p>
-  <img src="https://img.icons8.com/fluent/96/000000/ms-word.png" width="30" height="30"/> **MS in Information Security @ NUST SEECS**
-</p>
-
-<div style="background-color: yellow; height: 2px; width: 100%;"></div>
-
-
 ## Languages and Tools
 ## Programming Languages
 
