@@ -10,8 +10,6 @@ I'm a passionate full stack developer with a knack for creating dynamic and resp
 Currently, I'm gaining experience in the field of Information Security and Cyber Security.
 
 ## Languages and Tools
-# Programming Languages
-
 <table>
   <tr>
     <th>C</th>
@@ -119,21 +117,48 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
   </tr>
 </table>
 
+# My Tools for Data Manipulation
 
-**My tools for Data Manipulation:**
-- Conda
-- Jupyter
-- Spark
-- MySQL
-- Postgres
-- SQLite
+<table>
+  <tr>
+    <th>Conda</th>
+    <th>Jupyter</th>
+    <th>Spark</th>
+    <th>MySQL</th>
+    <th>Postgres</th>
+    <th>SQLite</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/windows/48/000000/conda.png" alt="Conda"></td>
+    <td><img src="https://img.icons8.com/windows/48/000000/jupyter-notebook.png" alt="Jupyter"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/apache-spark.png" alt="Spark"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/mysql.png" alt="MySQL"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/postgresql.png" alt="Postgres"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/sqlite.png" alt="SQLite"></td>
+  </tr>
+</table>
 
-**Environments, Testing, Other:**
-- NodeJS
-- Git
-- Docker
-- Pytest
-- Swagger
-- Postman
-- Virtual Box
-- HardHat
+# Environments, Testing, Other
+
+<table>
+  <tr>
+    <th>NodeJS</th>
+    <th>Git</th>
+    <th>Docker</th>
+    <th>Pytest</th>
+    <th>Swagger</th>
+    <th>Postman</th>
+    <th>Virtual Box</th>
+    <th>HardHat</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"></td>
+    <td><img src="https://img.icons8.com/material-outlined/48/000000/pytest.png" alt="Pytest"></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/000000/swagger.png" alt="Swagger"></td>
+    <td><img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="Virtual Box"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/construction-worker.png" alt="HardHat"></td>
+  </tr>
+</table>
