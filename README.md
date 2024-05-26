@@ -58,6 +58,7 @@ Currently, I'm gaining experience in the field of Information Security and Cyber
 |--------------------------------------------------------------------------------------------------------|---------|--------|-------------------|-----------|-------------|----------|-----------|
 | <img src="https://github.com/sammorozov/sammorozov/raw/main/assets/msf.svg" width="48">               |         |        |                   |           |             |          |           |
 
-
+LeetCode Profile: 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/Wasid_Khan/)
 
 ![Snake](https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg)
