@@ -2,7 +2,7 @@ WASID KHAN
 
 **Full-Stack Developer/ Web3 dev / Blochcain Development**
 
-🌍 Islamabad, Pakistan | 📧 [my email here!]{wakhan.msis23seecs@seecs.edu.pk}
+🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)
 
 ## About Me:
 I'm a passionate full stack developer with a knack for creating dynamic and responsive web applications, specializing in both front-end and back-end technologies, dominantly in React.js and C#.Net framework along with others like Php. I thrive on building seamless, user-centric applications and optimizing performance. Additionally, I have a strong foundation in JavaScript, Python, C#, SQL, and cloud-based development.
