@@ -1,6 +1,6 @@
 WASID KHAN
 
-**Full-Stack Developer/ Web3 dev / Blochcain Development**
+**Full-Stack Developer - (Java and C#.NET)
 
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)
 
