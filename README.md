@@ -1,5 +1,3 @@
-WASID KHAN
-
 **Junior Full-Stack Developer - (Java and C#.NET)**
 
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)
