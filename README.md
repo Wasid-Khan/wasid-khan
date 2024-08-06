@@ -1,4 +1,4 @@
-**Junior Full-Stack Developer - (Java and C#.NET)**
+**Junior Full-Stack Developer - (C#.NET and Java)**
 
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)
 
