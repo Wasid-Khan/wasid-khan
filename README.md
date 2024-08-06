@@ -3,7 +3,7 @@
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)
 
 ## About Me:
-I'm a passionate full stack developer with a knack for creating dynamic and responsive web applications, specializing in both front-end and back-end technologies, dominantly in Java and C#.Net framework along with others like Php. I thrive on building seamless, user-centric applications and optimizing performance. Additionally, I have a strong foundation in JavaScript, Python, Kotlin, SQL, and cloud-based development.
+I'm a passionate full stack developer with a love for creating dynamic and responsive web applications, Desktop applications, specializing in both front-end and back-end technologies, dominantly in Java and C#.Net Core along with others like Php. I thrive on building seamless, user-centric applications and optimizing performance. Additionally, I have a strong foundation in JavaScript, Python, Kotlin, SQL, and cloud-based development.
 
 Currently, I'm gaining experience in the field of Information Security and Cyber Security.
 
