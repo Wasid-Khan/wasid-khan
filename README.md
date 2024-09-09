@@ -1,11 +1,11 @@
-**Junior Full-Stack Developer - (C#.NET and Java)**
+**Junior C# Developer - (C#.NET and Java)**
 
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)
 
 ## About Me:
-I'm a passionate full stack developer with a love for creating dynamic and responsive web applications, Desktop applications, specializing in both front-end and back-end technologies, dominantly in Java and C#.Net Core along with others like Php. I thrive on building seamless, user-centric applications and optimizing performance. Additionally, I have a strong foundation in JavaScript, Python, Kotlin, SQL, and cloud-based development.
+I'm a passionate C# developer with a love for creating dynamic and responsive web applications, Desktop applications, specializing and actively working in both front-end and back-end technologies, dominantly in C#.NET Core along with others like Java, and Php, MYSQL. I thrive on building seamless, user-centric applications and optimizing performance. Additionally, I have a strong foundation in JavaScript, Python, Kotlin, SQL, and cloud-based development too, however, am not actively working with Kotlin.
 
-Currently, I'm gaining experience in the field of Information Security and Cyber Security.
+Currently, I'm gaining experience in the field of Information Security and Cyber Security and am in my 2nd year of MS in Information Security degree from a world-class institution called, National University of Sciences and Technology, Pakistan - NUST.
 
 
 LeetCode Profile: 
