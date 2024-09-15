@@ -14,7 +14,7 @@ LeetCode Profile:
 Linkedin Profile:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wasid-khan66/)
 
-## Programming Languages
+## Programming Languages : Expertise
 
 | C                                        | C++                                          | Java                                           | C#                                          | JavaScript                                    | Python                                       | Solidity                                     | SQL                                          | PHP                                          |
 |------------------------------------------|----------------------------------------------|------------------------------------------------|---------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
