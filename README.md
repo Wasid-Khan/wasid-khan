@@ -31,8 +31,7 @@ Linkedin Profile:
 |------------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | ![PyTorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | ![Selenium](https://img.icons8.com/ios/50/000000/selenium-test-automation.png) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) |
 
-| Spring Framework                              |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| Spring Framework
 | ![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png)
 
 | ASP.NET Core                                  | Entity Framework Core                         | xUnit / NUnit / MSTest                      | NuGet                                        | Blazor / Razor                               | SignalR                                      |
