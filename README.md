@@ -26,22 +26,74 @@ Linkedin Profile:
 |------------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | ![PyTorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | ![Selenium](https://img.icons8.com/ios/50/000000/selenium-test-automation.png) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) |
 
-| Spring Framework
-| ![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png)
+## **C# Related Frameworks and Libraries** :gear:
 
-| ASP.NET Core                                  | Entity Framework Core                         | xUnit / NUnit / MSTest                      | NuGet                                        | Blazor / Razor                               | SignalR                                      |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png) | ![Entity Framework Core](https://img.icons8.com/color/48/000000/database-restore.png) | ![xUnit / NUnit / MSTest](https://img.icons8.com/color/48/000000/test.png) | ![NuGet](https://img.icons8.com/color/48/000000/package-manager.png) | ![Blazor / Razor](https://img.icons8.com/color/48/000000/razor-page.png) | ![SignalR](https://img.icons8.com/color/48/000000/real-time.png) |
+- **ASP.NET Core**  
+  ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)  
+  A cross-platform framework for building modern, cloud-based, and internet-connected applications.
+
+- **Entity Framework Core**  
+  ![Entity Framework Core](https://img.icons8.com/color/48/000000/database-restore.png)  
+  An ORM framework that provides a high-level abstraction for database access in .NET.
+
+- **xUnit**  
+  ![xUnit](https://img.icons8.com/color/48/000000/xunit.png)  
+  A popular testing framework for .NET applications, designed for writing and running tests.
+
+- **NUnit**  
+  ![NUnit](https://img.icons8.com/ios/50/000000/nunit.png)  
+  A widely-used unit testing framework for .NET.
+
+- **MSTest**  
+  ![MSTest](https://img.icons8.com/color/48/000000/mstest.png)  
+  The Microsoft unit testing framework, integrated into Visual Studio for .NET applications.
+
+- **NuGet**  
+  ![NuGet](https://img.icons8.com/ios/50/000000/nuget.png)  
+  The package manager for .NET, facilitating the addition, updating, and removal of libraries in your projects.
+
+- **Blazor**  
+  ![Blazor](https://img.icons8.com/color/48/000000/blazor.png)  
+  A framework for building interactive web UIs using C# instead of JavaScript.
+
+- **SignalR**  
+  ![SignalR](https://img.icons8.com/color/48/000000/signalr.png)  
+  A library for adding real-time web functionality to applications.
 
 | Serilog / NLog                               | Dapper                                        | AutoMapper                                    | Swashbuckle                                  |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|
 | ![Serilog / NLog](https://img.icons8.com/color/48/000000/log.png) | ![Dapper](https://img.icons8.com/color/48/000000/code.png) | ![AutoMapper](https://img.icons8.com/color/48/000000/mirror.png) | ![Swashbuckle](https://img.icons8.com/color/48/000000/api-settings.png) |
 
-## My Tools for Data Manipulation
 
-| Conda                                        | Jupyter                                       | Spark                                         | MySQL                                        | PostgreSQL                                     | SQLite                                       |
-|----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|
-| ![Conda](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg) | ![Jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg) | ![Spark](https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg) | ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg) | ![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg) | ![SQLite](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg) |
+## **My Tools for Data Manipulation** :gear:
+
+- **Entity Framework**  
+  ![Entity Framework](https://img.icons8.com/color/48/000000/database-restore.png)  
+  A popular ORM for .NET applications, enabling developers to work with databases using .NET objects.
+
+- **LINQ (Language Integrated Query)**  
+  ![LINQ](https://img.icons8.com/color/48/000000/query.png)  
+  A powerful query syntax integrated into C# for handling collections and databases.
+
+- **Dapper**  
+  ![Dapper](https://img.icons8.com/ios-filled/50/000000/code.png)  
+  A fast and lightweight object mapper for .NET.
+
+- **SQL Server**  
+  ![SQL Server](https://img.icons8.com/ios-filled/50/000000/sql-server.png)  
+  Microsoft's relational database system, widely used with C# applications for handling structured data.
+
+- **SQL**  
+  ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)  
+  Structured Query Language for managing and querying relational databases, extensively used in C# projects.
+
+- **MongoDB**  
+  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  
+  A NoSQL database for flexible, scalable data storage, used in some C# projects.
+
+- **Azure Cosmos DB**  
+  ![Cosmos DB](https://img.icons8.com/ios-filled/50/000000/azure-cosmos-db.png)  
+  A globally distributed, multi-model database service for modern cloud-native applications.
 
 ## Environment and Testing
 
@@ -55,11 +107,7 @@ Linkedin Profile:
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Kali](https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg) | ![Ubuntu](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) |
 
-To add icons and present the content in a GitHub-friendly format, here's how you can structure the markdown with relevant icons using emoji representations:
-
----
-
-## **C# Related Frameworks and Libraries** :wrench:
+## **C# Related Frameworks and Libraries I'm working with and learning** :wrench:
 
 | **Framework/Library**      | **Description**                                                                                                      |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -100,9 +148,3 @@ To add icons and present the content in a GitHub-friendly format, here's how you
 | :electric_plug: **Dependency Injection (DI)**    | A design pattern heavily used in ASP.NET Core and other frameworks, which allows for better testability, modularity, and flexibility in applications.|
 | :triangular_ruler: **MVC (Model-View-Controller)**  | A design pattern supported by ASP.NET Core, allowing separation of concerns in web applications by dividing them into Models, Views, and Controllers.|
 | :thread: **Multithreading and Parallelism** | C# provides extensive support for multithreaded programming using the `Task` and `Thread` classes, allowing better use of system resources.       |
-
----
-
-To add icons and formatting in your GitHub README, just copy and paste this markdown. It should work seamlessly on GitHub.
-
-Let me know if you need any other adjustments!
