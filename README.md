@@ -60,10 +60,44 @@ Linkedin Profile:
   ![SignalR](https://img.icons8.com/color/48/000000/signalr.png)  
   A library for adding real-time web functionality to applications.
 
-| Serilog / NLog                               | Dapper                                        | AutoMapper                                    | Swashbuckle                                  |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|
-| ![Serilog / NLog](https://img.icons8.com/color/48/000000/log.png) | ![Dapper](https://img.icons8.com/color/48/000000/code.png) | ![AutoMapper](https://img.icons8.com/color/48/000000/mirror.png) | ![Swashbuckle](https://img.icons8.com/color/48/000000/api-settings.png) |
 
+## **C# Related Libraries and Tools** :gear:
+
+- **Serilog**  
+  ![Serilog](https://img.icons8.com/color/48/000000/log.png)  
+  A logging library for .NET applications that provides structured logging.
+
+- **NLog**  
+  ![NLog](https://img.icons8.com/color/48/000000/nlog.png)  
+  A flexible logging framework for .NET, known for its high performance.
+
+- **Dapper**  
+  ![Dapper](https://img.icons8.com/color/48/000000/code.png)  
+  A lightweight ORM library for .NET, known for its performance and simplicity.
+
+- **AutoMapper**  
+  ![AutoMapper](https://img.icons8.com/color/48/000000/mirror.png)  
+  A library that helps with object-to-object mapping, reducing the need for repetitive code.
+
+- **Swashbuckle**  
+  ![Swashbuckle](https://img.icons8.com/color/48/000000/api-settings.png)  
+  A library for generating Swagger documentation for ASP.NET Core APIs.
+
+- **MediatR**  
+  ![MediatR](https://img.icons8.com/color/48/000000/mediatr.png)  
+  A library for implementing the Mediator pattern, which helps with decoupling components.
+
+- **Hangfire**  
+  ![Hangfire](https://img.icons8.com/color/48/000000/hangfire.png)  
+  A framework for background job processing in .NET applications.
+
+- **Quartz.NET**  
+  ![Quartz.NET](https://img.icons8.com/color/48/000000/quartz-net.png)  
+  A full-featured, open-source job scheduling system for .NET.
+
+- **FluentValidation**  
+  ![FluentValidation](https://img.icons8.com/color/48/000000/validation.png)  
+  A library for building strongly-typed validation rules in .NET applications.
 
 ## **My Tools for Data Manipulation** :gear:
 
