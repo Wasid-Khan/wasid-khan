@@ -55,10 +55,54 @@ Linkedin Profile:
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | ![Kali](https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg) | ![Ubuntu](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) |
 
-## Weapons Loaded ❤️
+To add icons and present the content in a GitHub-friendly format, here's how you can structure the markdown with relevant icons using emoji representations:
 
-| Metasploit Framework                                                                                   | Nikto   | BeEF   | John The Ripper   | Autopsy   | Wireshark   | Sqlmap   | Apktool   |
-|--------------------------------------------------------------------------------------------------------|---------|--------|-------------------|-----------|-------------|----------|-----------|
-| <img src="https://github.com/sammorozov/sammorozov/raw/main/assets/msf.svg" width="48">               |         |        |                   |           |             |          |           |
+---
 
-![Snake](https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg)
+## **C# Related Frameworks and Libraries** :wrench:
+
+| **Framework/Library**      | **Description**                                                                                                      |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| :globe_with_meridians: **ASP.NET Core**            | A cross-platform, high-performance framework for building modern, cloud-based, internet-connected applications.       |
+| :floppy_disk: **Entity Framework (EF)**   | An open-source ORM framework for .NET applications to work with databases using .NET objects.                        |
+| :iphone: **Xamarin**                 | A framework to build native mobile apps for iOS, Android, and Windows using C# and .NET.                             |
+| :desktop_computer: **WPF (Windows Presentation Foundation)** | A framework for building desktop applications with a rich user interface (UI) using C# and XAML.              |
+| :spider_web: **Blazor**                  | A framework to build interactive web UIs using C# instead of JavaScript.                                             |
+| :speech_balloon: **SignalR**                 | A library for adding real-time web functionality like chat applications, notifications, etc. in ASP.NET applications. |
+| :repeat: **AutoMapper**              | A library that simplifies object-to-object mapping by automatically copying values from one object to another.        |
+| :test_tube: **Moq**                     | A popular mocking library for .NET that helps in unit testing by simulating dependencies in applications.            |
+
+---
+
+## **C# Tools and IDEs** :hammer_and_wrench:
+
+| **Tool/IDE**         | **Description**                                                                                              |
+|----------------------|--------------------------------------------------------------------------------------------------------------|
+| :computer: **Visual Studio**     | The most widely used IDE for C# development, offering a comprehensive suite of tools for development, debugging, and testing. |
+| :brain: **Rider**             | A cross-platform IDE by JetBrains for .NET development, providing excellent refactoring and productivity tools.|
+| :mag_right: **LINQPad**           | A tool to query databases using LINQ in C# and perform fast prototyping without the need for an IDE.         |
+| :recycle: **ReSharper**         | A productivity tool by JetBrains that extends Visual Studio with refactoring, navigation, and code analysis tools. |
+| :package: **NuGet**             | A package manager for .NET that allows adding, updating, and managing third-party libraries in projects.     |
+| :lock: **Fiddler**           | A web debugging tool to monitor and modify HTTP/HTTPS traffic.                                               |
+| :email: **Postman**           | A tool to test APIs and web services, allowing requests and responses to be inspected and manipulated.       |
+| :cloud: **Azure DevOps**      | A suite of development tools for managing projects, CI/CD pipelines, version control, and testing in the cloud. |
+| :octocat: **GitHub/Git**        | A version control tool to manage and collaborate on code repositories, integrated with Visual Studio.        |
+
+---
+
+## **Relevant Concepts and Features** :bulb:
+
+| **Concept/Feature**             | **Explanation**                                                                                                                                   |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| :lock_with_ink_pen: **Object-Oriented Programming (OOP)** | C# is an OOP language, supporting encapsulation, inheritance, polymorphism, and abstraction. It allows for modular, reusable, and scalable code. |
+| :mag: **LINQ (Language Integrated Query)** | A powerful query syntax that allows for querying collections (like arrays, lists, and databases) directly within C# using a consistent syntax.     |
+| :hourglass_flowing_sand: **Asynchronous Programming (async/await)** | C# supports asynchronous programming, allowing applications to perform tasks without blocking the main thread, improving responsiveness.         |
+| :electric_plug: **Dependency Injection (DI)**    | A design pattern heavily used in ASP.NET Core and other frameworks, which allows for better testability, modularity, and flexibility in applications.|
+| :triangular_ruler: **MVC (Model-View-Controller)**  | A design pattern supported by ASP.NET Core, allowing separation of concerns in web applications by dividing them into Models, Views, and Controllers.|
+| :thread: **Multithreading and Parallelism** | C# provides extensive support for multithreaded programming using the `Task` and `Thread` classes, allowing better use of system resources.       |
+
+---
+
+To add icons and formatting in your GitHub README, just copy and paste this markdown. It should work seamlessly on GitHub.
+
+Let me know if you need any other adjustments!
