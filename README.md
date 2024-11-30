@@ -8,6 +8,8 @@
 
 I'm a passionate Python developer with expertise in building dynamic and scalable web applications, REST APIs, and automation scripts. Specializing in Python and its versatile frameworks like Django, Flask, FastAPI, and Streamlit, I thrive on crafting solutions that are efficient, user-centric, and performance-optimized. I also have experience in data analysis, scripting, and deployment using cloud-based platforms.  
 
+I've had a strong history of working with C#.NET development technologies. I've built various standalone Desktop applications including TournamentTracker, Cafe-Management-System, Account Mgt System using various libraries like Windows Forms (WinForms), WPF framework, and ASP for web-applications.
+
 Currently, I'm gaining experience in the field of Information Security and Cyber Security as I pursue my MS in Information Security at the National University of Sciences and Technology (NUST), Pakistan.  
 
 LeetCode Profile:  
