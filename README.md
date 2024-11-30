@@ -1,7 +1,3 @@
-Here's the updated draft for a Python developer profile:  
-
----
-
 **Junior Fullstack Python Developer - (Python, Django, Flask, FastAPI, Streamlit)**  
 
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)  
@@ -97,6 +93,3 @@ LinkedIn Profile:
 |-------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
 | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) | ![Kali](https://img.icons8.com/color/48/000000/kali-linux.png) | ![Parrot OS](https://img.icons8.com/color/48/000000/linux.png) | ![Windows](https://img.icons8.com/color/48/000000/windows-logo.png) |  
 
----  
-
-Let me know if you need any further customization or enhancements! 😊  
