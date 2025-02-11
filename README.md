@@ -8,7 +8,7 @@
 
 I am a Python Developer focused on Machine Learning (ML) and AI, building smart, data-driven solutions. I work with TensorFlow, PyTorch, and Scikit-learn to develop and optimize ML models for predictive analytics, NLP, and computer vision.
 
-Currently pursuing an MS in Information Security at NUST SEECS, I also focus on AI security, ethical AI, and data privacy. I have experience in feature engineering, model tuning, and deploying ML models using Docker, FastAPI, and cloud platforms.
+Completed the necessary coursework for an MS in Information Security at NUST SEECS, I also focus on AI security, ethical AI, and data privacy. I have experience in feature engineering, model tuning, and deploying ML models using Docker, FastAPI, and cloud platforms.
 
 While skilled in multiple languages like C#, Java, and C++, my main strength is Python-based ML development. I work with leading ML frameworks such as Keras, XGBoost, and Hugging Face, alongside Data Engineering tools like Apache Spark, Airflow, and Dask to process and manage large datasets efficiently.
 
