@@ -1,4 +1,4 @@
-**Junior Fullstack Python Developer - (Python, Django, Flask, FastAPI, Streamlit)**  
+**Python Developer - (python, django, flask, fastAPI, streamlit, scikitlear, pytorch, tensorflow)**  
 
 🌍 Islamabad, Pakistan | 📧 (wakhan.msis23seecs@seecs.edu.pk)  
 
@@ -6,11 +6,11 @@
 
 ## About Me:  
 
-I'm a passionate Python developer with expertise in building dynamic and scalable web applications, REST APIs, and automation scripts. Specializing in Python and its versatile frameworks like Django, Flask, FastAPI, and Streamlit, I thrive on crafting solutions that are efficient, user-centric, and performance-optimized. I also have experience in data analysis, scripting, and deployment using cloud-based platforms.  
+I am a Python Developer focused on Machine Learning (ML) and AI, building smart, data-driven solutions. I work with TensorFlow, PyTorch, and Scikit-learn to develop and optimize ML models for predictive analytics, NLP, and computer vision.
 
-I've had a strong history of working with C#.NET development technologies. I've built various standalone Desktop applications including TournamentTracker, Cafe-Management-System, Account Mgt System using various libraries like Windows Forms (WinForms), WPF framework, and ASP for web-applications.
+Currently pursuing an MS in Information Security at NUST SEECS, I also focus on AI security, ethical AI, and data privacy. I have experience in feature engineering, model tuning, and deploying ML models using Docker, FastAPI, and cloud platforms.
 
-Currently, I'm gaining experience in the field of Information Security and Cyber Security as I pursue my MS in Information Security at the National University of Sciences and Technology (NUST), Pakistan.  
+While skilled in multiple languages like C#, Java, and C++, my main strength is Python-based ML development. I work with leading ML frameworks such as Keras, XGBoost, and Hugging Face, alongside Data Engineering tools like Apache Spark, Airflow, and Dask to process and manage large datasets efficiently.
 
 LeetCode Profile:  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/Wasid_Khan/)  
